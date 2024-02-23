@@ -1,0 +1,112 @@
+{
+  "companies": [
+    {
+      "id": "2034",
+      "email": "admin@riwi.io",
+      "nameCompany": "Riwi",
+      "imageCompany": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "2035",
+      "email": "admin@google.com",
+      "nameCompany": "Google",
+      "imageCompany": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "5664",
+      "email": "a@gmail.com",
+      "password": "qw",
+      "passwordConfirmation": {},
+      "name": "123",
+      "image": "123"
+    },
+    {
+      "id": "9556",
+      "email": "miguel@gmail.com",
+      "password": "123445",
+      "passwordConfirmation": {},
+      "name": "Riwi",
+      "image": "data:image/png;base64,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"
+    },
+    {
+      "id": "0236",
+      "email": "riwi@gmail.com",
+      "password": "1234",
+      "passwordConfirmation": {},
+      "name": "Riwi Coders",
+      "image": "data:image/png;base64,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"
+    },
+    {
+      "id": "0312",
+      "email": "david@gmail.com",
+      "password": "zdf",
+      "passwordConfirmation": {},
+      "name": "sdfg",
+      "image": "sdfb"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "9941",
+      "image": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "company": "Riwi",
+      "description": "Chief Executive Officer (CEO)",
+      "location": "London",
+      "experience": "47",
+      "modality": "In person",
+      "salary": "$1,200,000"
+    },
+    {
+      "id": "9942",
+      "image": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "company": "Riwi",
+      "description": "Junior Technical Author",
+      "location": "San Francisco",
+      "experience": "66",
+      "modality": "In person",
+      "salary": "$86,000"
+    },
+    {
+      "id": "9943",
+      "image": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "company": "Riwi",
+      "description": "Software Engineer",
+      "location": "London",
+      "experience": "41",
+      "modality": "Remote",
+      "salary": "$1,320,000"
+    },
+    {
+      "id": "b703",
+      "image": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "company": "Riwi",
+      "description": "dfvadfbvav",
+      "location": "Medellin",
+      "experience": "10",
+      "modality": "Remote",
+      "salary": "200000000"
+    },
+    {
+      "id": "6537",
+      "image": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "company": "Riwi",
+      "description": "New jobv",
+      "location": "Medellin",
+      "experience": "10",
+      "modality": "Remote",
+      "salary": "1000020"
+    },
+    {
+      "id": "cd2c",
+      "image": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "company": "Riwi",
+      "description": "a",
+      "location": "Filadelfia",
+      "experience": "7",
+      "modality": "In person",
+      "salary": "5000000"
+    }
+  ]
+}
